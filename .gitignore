@@ -1,5 +1,5 @@
 /venv
-expense_report.csv
-users.csv
+*expense_report.csv
+*users.csv
 .idea
 __pycache__
