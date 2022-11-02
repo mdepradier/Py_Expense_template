@@ -2,3 +2,7 @@ Toto,Label,Max
 10,Toto,label
 10,10,10
 1,label,Toto
+10,10,SIGL
+10,Toto,SIGL
+10,Test,SIGL,"['RDuval', 'PChojka', 'Toto', 'tata']"
+30,Select,SIGL,"['Toto', 'tata']"
