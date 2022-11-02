@@ -1,4 +1,4 @@
-from pyinquirer import prompt
+from PyInquirer import prompt
 from examples import custom_style_2
 from expense import expense_questions,new_expense
 

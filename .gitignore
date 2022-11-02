@@ -1,0 +1,5 @@
+/venv
+expense_report.csv
+users.csv
+.idea
+__pycache__
