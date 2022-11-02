@@ -1,3 +1,4 @@
+import ast
 import copy
 import csv
 
@@ -53,6 +54,7 @@ def get_participants_list(spender, users):
     }
     option = prompt(user_choice)
     return option['participants']
+
 
 
 expense_report_file = "expense_report.csv"
